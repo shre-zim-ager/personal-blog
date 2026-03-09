@@ -21,3 +21,5 @@ Follow the setup instructions in the documentation.
 ## Future Plans
 - Add more features like comments and categories.
 - Improve performance and SEO.
+- Implement dark mode support for better user experience.
+- Optimize image loading for faster page speeds.
